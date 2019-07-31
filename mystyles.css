@@ -1,0 +1,28 @@
+p {
+  font-size: 18px;
+  color: dodgerblue;
+  font-family: Apple Chancery, cursive;
+  background-color: linen;
+}
+h1{
+  text-align: center;
+  background-color: lightblue;
+  font-size: 100px;
+  font-style: italic;
+  font-family: emoji;
+}
+h2{
+  font-size: 40px;
+  color: green;
+  font-family: monospace;
+  text-align: center;
+  background-color: pink;
+}
+body {
+  background-color: lightcyan
+}
+button{
+  font-size: 50px;
+  font-family: serif;
+  text-align: center;
+}
